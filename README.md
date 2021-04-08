@@ -109,3 +109,18 @@ optional arguments:
 If you want to evaluate all model stored in ./experiments on the data in /data/test:
 
 `python evaluate.py ./experiments  /data/test`
+
+# BibTeX
+
+When you cite our work feel free to use the following bibtex entry:
+
+```
+@misc{frank2021re,
+      title={[RE] CNN-generated images are surprisingly easy to spot...for now}, 
+      author={Joel Frank and Thorsten Holz},
+      year={2021},
+      eprint={2104.02984},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
